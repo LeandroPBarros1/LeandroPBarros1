@@ -1,4 +1,4 @@
-###  Oiii eu sou a Leandro Pereira, estudante de Análise e Desenvolvimento de Sistemas!
+###  Oiii eu sou o Leandro Pereira, estudante de Análise e Desenvolvimento de Sistemas!
 <div align="center">
   <a href="https://github.com/LeandroPBarros1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroPBarros1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
